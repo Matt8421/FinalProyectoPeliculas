@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
     cargarUsuarios();
 });
 // ----------------------------------------- //
-// -- Cargar usuarios -- //
+// -- Cargar usuarios  -- //
 function cargarUsuarios() {
 
     fetch('/proyectoJava_24113/GestionUsuariosServlet')
